@@ -60,6 +60,7 @@ header nav a{
 #intro .avatar img{
     height: 100%;
     filter: saturate(0.5);
+    margin-left: 40em;
 }
 
 #intro .content{
